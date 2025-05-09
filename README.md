@@ -1,7 +1,7 @@
 # 1. Dataset: Epicurious - Recipes with Rating and Nutrition
 
 ## 1.1 Data Description
-The dataset from Kaggle, [**Epicurious - Recipes with Rating and Nutrition**](/https://www.kaggle.com/datasets/hugodarwood/epirecipes), contains 20,000 recipes from websites like Epicurious, Food.com, and Allrecipes. It includes detailed metadata for each recipe, such as:
+The dataset from Kaggle, [**Epicurious - Recipes with Rating and Nutrition**](https://www.kaggle.com/datasets/hugodarwood/epirecipes), contains 20,000 recipes from websites like Epicurious, Food.com, and Allrecipes. It includes detailed metadata for each recipe, such as:
 
 * Recipe name
 * Ingredients
